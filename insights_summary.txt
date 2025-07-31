@@ -1,3 +1,5 @@
+Blinkit Grocery Sales Analysis – Key Business Insights & Takeaways
+
 • Processed and analyzed sales data from over 8,500 unique SKUs spanning multiple product categories and outlet tiers.
 
 • Identified Tier 3 outlets as the highest revenue contributors, generating $472,300+ in total sales—accounting for approximately 43% of overall revenue.
