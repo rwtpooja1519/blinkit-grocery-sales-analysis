@@ -1,0 +1,15 @@
+• Processed and analyzed sales data from over 8,500 unique SKUs spanning multiple product categories and outlet tiers.
+
+• Identified Tier 3 outlets as the highest revenue contributors, generating $472,300+ in total sales—accounting for approximately 43% of overall revenue.
+
+• Highlighted Fruits & Vegetables as the top-performing category, with total sales exceeding $178,000 and accounting for over 20% of the total product-level revenue.
+
+• Discovered that products labeled as “low-fat” received the highest average customer ratings (~4.1 out of 5), indicating a strong consumer preference for health-focused items.
+
+• Built dynamic Excel dashboards with automated KPIs, enabling real-time monitoring of Total Sales, Average Sales per Item, and Category-wise Revenue.
+
+• Reduced manual data processing time by approximately 75% through automation using PivotTables, slicers, and conditional formatting.
+
+• Enabled performance benchmarking across outlet tiers and product segments using visual analytics, enhancing decision-making for inventory planning and marketing.
+
+• Delivered an executive-ready dashboard that integrates exploratory data analysis, business KPIs, and actionable insights into a single, user-friendly interface.
